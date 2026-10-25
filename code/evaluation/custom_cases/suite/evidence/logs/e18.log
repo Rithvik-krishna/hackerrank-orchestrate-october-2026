@@ -1,0 +1,4 @@
+2026-03-08T09:10:00Z level=DEBUG service=account_service trace_id=t23 event=profile_lookup_started resource_id=account_9022 lookup_key=ula.vik@example.com
+2026-03-08T09:10:01Z level=INFO service=account_service trace_id=t23 event=profile_lookup_completed resource_id=account_9022 rows=0 http_status=404
+2026-03-08T09:15:00Z level=INFO service=support_platform trace_id=t24 event=attachment_pii_scan resource_id=support_9022 matched_value=ula.vik@example.com
+2026-03-08T09:25:00Z level=ERROR service=attachment_preview trace_id=t25 event=thumbnail_failed resource_id=support_9022 reason=unsupported_media

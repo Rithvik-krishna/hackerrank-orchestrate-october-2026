@@ -1,0 +1,1 @@
+{"assignments": [{"activity_id": "NONE", "case_id": "case_408", "basis": ["request_text:case_408"], "reason": "No evidence links the candidate row to the user or case.", "confidence": "low"}, {"confidence": "low", "reason": "No evidence links the candidate row to the user or case.", "case_id": "case_409", "basis": ["request_text:case_409"], "activity_id": "NONE"}]}

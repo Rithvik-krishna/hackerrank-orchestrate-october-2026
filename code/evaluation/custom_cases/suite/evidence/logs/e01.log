@@ -1,0 +1,2 @@
+2026-02-15T08:50:00Z level=DEBUG service=search_service trace_id=t1 event=index_query_started resource_id=search_9001 lookup_key=ana.old@example.com
+2026-02-15T08:50:01Z level=INFO service=search_service trace_id=t1 event=index_query_completed resource_id=search_9001 result=hit total_hits=1 email=ana.old@example.com

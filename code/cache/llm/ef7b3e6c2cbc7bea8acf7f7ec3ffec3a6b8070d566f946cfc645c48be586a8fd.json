@@ -1,0 +1,1 @@
+{"assignments": [{"basis": ["request_text:case_428"], "confidence": "low", "activity_id": "NONE", "reason": "The request text is generic and does not specify which account (account_2157 or account_9975) belongs to the user. There is no evidence linking either account to user_426.", "case_id": "case_428"}]}

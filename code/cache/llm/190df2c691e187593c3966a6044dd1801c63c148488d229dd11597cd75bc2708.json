@@ -1,0 +1,1 @@
+{"assignments": [{"confidence": "low", "reason": "The request text does not specify which account ID belongs to the user, and none of the candidate rows have known owners or other links to the user or case.", "basis": ["request_text:case_147"], "case_id": "case_147", "activity_id": "NONE"}]}

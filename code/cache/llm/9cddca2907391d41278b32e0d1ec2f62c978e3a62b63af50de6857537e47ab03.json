@@ -1,0 +1,1 @@
+{"assignments": [{"activity_id": "NONE", "confidence": "low", "case_id": "case_452", "basis": ["request_text:case_452"], "reason": "The request text does not provide specific identifiers (like resource IDs) to link the candidate rows to the case. The linked audit record is for a different service (security_service), not the analytics platform."}]}

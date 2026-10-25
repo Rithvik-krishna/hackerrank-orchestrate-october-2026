@@ -1,0 +1,2 @@
+2026-03-06T10:00:00Z level=DEBUG service=search_service trace_id=t26 event=index_query_started resource_id=search_9023 lookup_key=quin.roe@example.com
+2026-03-06T10:00:01Z level=INFO service=search_service trace_id=t26 event=index_query_completed resource_id=search_9023 result=hit total_hits=1 email=quin.roe@example.com

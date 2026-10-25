@@ -1,0 +1,22 @@
+{
+  "file_id": "evidence_60",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Audience Operations > Audience Operations: Soo-jin Park, marketing_001",
+  "rows": [
+    {
+      "system_id": "marketing_platform",
+      "resource_id": "marketing_001",
+      "category": "MARKETING_PROFILE",
+      "status": "PRESENT",
+      "identifiers": [
+        "sj.park@naver.com",
+        "+82 10-5837-9451"
+      ],
+      "pii_fields": {
+        "name": "Soo-jin Park"
+      },
+      "identity_mismatch": true,
+      "notes": "Live profile, email opt-in yes. The person on screen is not any known user, while the data catalog (activity_4008) links marketing_001 to kwame-mensah@proton.me / user_09. The link is used; the discrepancy is reported."
+    }
+  ]
+}

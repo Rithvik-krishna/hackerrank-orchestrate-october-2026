@@ -1,0 +1,4 @@
+2026-03-06T09:50:00Z level=DEBUG service=account_service trace_id=t4 event=profile_lookup_started resource_id=account_9003 lookup_key=smartin@example.com
+2026-03-06T09:50:01Z level=INFO service=account_service trace_id=t4 event=profile_lookup_completed resource_id=account_9003 rows=0 http_status=404
+2026-03-06T09:51:00Z level=DEBUG service=search_service trace_id=t5 event=index_query_started resource_id=search_9033 lookup_key=smartin.jr@example.com
+2026-03-06T09:51:01Z level=INFO service=search_service trace_id=t5 event=index_query_completed resource_id=search_9033 result=hit total_hits=1 email=smartin.jr@example.com

@@ -1,0 +1,24 @@
+case_id,deletion_status,confidence,steps,steps_evidence,steps_inferred,steps_tie_break,tie_break_resources,unresolved,degraded_evidence,unverified_records
+custom_01,INCOMPLETE,medium,3,3,0,0,,account_service: no deletion row in the worker activity window,,
+custom_02,COMPLETE,high,1,1,0,0,,,,
+custom_03,COMPLETE,high,1,1,0,0,,,,
+custom_04,COMPLETE,medium,1,1,0,0,,,,support_9040 [SUPPORT_ATTACHMENT]
+custom_05,INCOMPLETE,medium,4,4,0,0,,,,support_9040 [SUPPORT_ATTACHMENT]
+custom_06,INCOMPLETE,high,4,4,0,0,,,,
+custom_07,COMPLETE,high,1,1,0,0,,,,
+custom_08,INCOMPLETE,high,4,4,0,0,,,,
+custom_09,INCOMPLETE,medium,3,3,0,0,,account_service: no deletion row in the worker activity window,,
+custom_10,COMPLETE,medium,2,2,0,0,,account_service: no deletion row in the worker activity window,,
+custom_11,NOT_APPLICABLE,high,0,0,0,0,,,,
+custom_12,COMPLETE,high,1,1,0,0,,,,
+custom_13,COMPLETE,high,1,1,0,0,,,,
+custom_14,INCOMPLETE,high,7,7,0,0,,,,
+custom_15,INCOMPLETE,high,7,7,0,0,,,,
+custom_16,INCOMPLETE,high,5,5,0,0,,,,
+custom_17,NOT_APPLICABLE,high,0,0,0,0,,,,
+custom_18,INCOMPLETE,medium,3,3,0,0,,account_service: no deletion row in the worker activity window,,
+custom_19,INCOMPLETE,high,3,3,0,0,,,,
+custom_20,COMPLETE,high,1,1,0,0,,,,
+custom_21,COMPLETE,high,2,2,0,0,,,,
+custom_22,INCOMPLETE,high,4,4,0,0,,,,
+custom_23,INCOMPLETE,medium,3,3,0,0,,,,account_9023 [USER_PROFILE]

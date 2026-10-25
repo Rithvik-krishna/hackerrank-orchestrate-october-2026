@@ -1,0 +1,1 @@
+{"assignments": [{"reason": "The request text is generic and does not identify any of the candidate account IDs. There is no evidence linking these specific account rows to the user or the case.", "basis": ["request_text:case_148"], "confidence": "low", "case_id": "case_148", "activity_id": "NONE"}]}

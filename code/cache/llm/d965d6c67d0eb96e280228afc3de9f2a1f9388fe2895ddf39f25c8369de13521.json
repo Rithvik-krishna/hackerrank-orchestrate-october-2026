@@ -1,0 +1,1 @@
+{"assignments": [{"case_id": "case_425", "activity_id": "NONE", "confidence": "high", "basis": ["request_text:case_425"], "reason": "The request text does not identify a specific account resource, and the candidate rows do not match any of the linked resources (analytics_platform, security_service, integration_service, search_service, support_platform)."}]}

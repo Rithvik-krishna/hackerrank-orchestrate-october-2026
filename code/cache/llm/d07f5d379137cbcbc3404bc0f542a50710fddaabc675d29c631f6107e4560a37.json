@@ -1,0 +1,1 @@
+{"assignments": [{"activity_id": "NONE", "reason": "None of the candidate rows have a resource_id that matches the linked accounts or audit records provided in the case.", "case_id": "case_470", "confidence": "low", "basis": ["request_text:case_470"]}]}

@@ -1,0 +1,20 @@
+{
+  "file_id": "evidence_23",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Customer Download Center > Data exports, export_1260 selected, status Ready",
+  "rows": [
+    {
+      "system_id": "export_service",
+      "resource_id": "export_1260",
+      "category": "USER_EXPORT",
+      "status": "PRESENT",
+      "identifiers": [
+        "ingrid.dahl@outlook.com"
+      ],
+      "notes": "customer_export_1260.zip, created 18 Jun 2026 06:42 UTC, expires 25 Jun, download count 0"
+    }
+  ],
+  "ignored": [
+    "export_1261, export_1259, export_1258 belong to northstar.shop staff addresses"
+  ]
+}

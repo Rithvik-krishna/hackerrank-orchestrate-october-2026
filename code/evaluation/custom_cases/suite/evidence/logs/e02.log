@@ -1,0 +1,2 @@
+2026-03-05T09:50:00Z level=DEBUG service=account_service trace_id=t2 event=profile_lookup_started resource_id=account_9002 lookup_key=bo.lin@example.com
+2026-03-05T09:50:01Z level=INFO service=account_service trace_id=t2 event=profile_lookup_completed resource_id=account_9002 rows=0 http_status=404

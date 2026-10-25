@@ -1,0 +1,3 @@
+activity_id,details,event_time,event_type,reported_result,resource_id,source_system,target_system
+activity_1,Data catalog linked export_9007 (export_9007) to fay.nord@example.com and user_7.,2026-03-18T09:00:00Z,LINK_RESOURCE_IDENTITY,SUCCESS,export_9007,data_catalog,export_service
+activity_2,Deletion worker submitted primary profile account_9023 to account_service.,2026-03-06T08:00:00Z,DELETE_RECORD,SUCCESS,account_9023,deletion_worker,account_service

@@ -1,0 +1,30 @@
+{
+  "file_id": "evidence_14",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "BridgeOps Connections, PRODUCTION eu-west, 07 Aug 2026 08:00 UTC, topology of 4 connectors",
+  "rows": [
+    {
+      "system_id": "integration_service",
+      "resource_id": "data_flow_1121",
+      "category": "DATA_FLOW",
+      "status": "ACTIVE",
+      "identifiers": [
+        "jain.aditi@gmail.com"
+      ],
+      "notes": "Healthy, continuous sync to customer_analytics_warehouse, 1,284 events/hour"
+    },
+    {
+      "system_id": "integration_service",
+      "resource_id": "data_flow_9846",
+      "category": "DATA_FLOW",
+      "status": "ACTIVE",
+      "identifiers": [
+        "lucia-torres@gmail.com"
+      ],
+      "notes": "continuous sync to customer_analytics_warehouse, 842 events/hour"
+    }
+  ],
+  "ignored": [
+    "Order notifications and Delivery tracking connectors carry no customer selector or resource id"
+  ]
+}

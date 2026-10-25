@@ -1,0 +1,2 @@
+2026-03-08T09:20:00Z level=DEBUG service=search_service trace_id=t19 event=index_query_started resource_id=search_9018 lookup_key=ned.oye@example.com
+2026-03-08T09:20:01Z level=INFO service=search_service trace_id=t19 event=index_query_completed resource_id=search_9018 result=hit total_hits=1 email=ned.oye@example.com

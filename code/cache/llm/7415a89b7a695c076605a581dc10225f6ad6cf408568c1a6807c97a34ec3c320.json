@@ -1,0 +1,1 @@
+{"assignments": [{"reason": "The request asks for deletion of all accounts associated with the email, but none of the candidate rows are linked to the user or the account service via the provided evidence or catalog links.", "case_id": "case_351", "basis": ["request_text:case_351"], "activity_id": "NONE", "confidence": "low"}]}

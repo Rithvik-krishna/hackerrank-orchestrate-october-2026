@@ -1,0 +1,3 @@
+2026-03-08T09:10:00Z level=DEBUG service=account_service trace_id=t21 event=profile_lookup_started resource_id=account_9021 lookup_key=pia.lund@example.com
+2026-03-08T09:10:01Z level=INFO service=account_service trace_id=t21 event=profile_lookup_completed resource_id=account_9021 rows=0 http_status=404
+2026-03-08T09:20:00Z level=INFO service=support_platform trace_id=t22 event=message_read resource_id=support_9021 subject_ref=user_19 message_text="[REDACTED]"

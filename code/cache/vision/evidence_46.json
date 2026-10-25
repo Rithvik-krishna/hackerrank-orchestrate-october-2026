@@ -1,0 +1,15 @@
+{
+  "file_id": "evidence_46",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Nimbus Object Storage > northstar-customer-data, eu-west-1/support-attachments/2026/02, 8 objects",
+  "rows": [
+    {
+      "system_id": "object_storage",
+      "resource_id": "object_19",
+      "category": "SUPPORT_ATTACHMENT",
+      "status": "PRESENT",
+      "identifiers": [],
+      "notes": "delivery_confirmation_19.pdf, 684 KB, v3, uploader support-service; no customer identity on screen"
+    }
+  ]
+}

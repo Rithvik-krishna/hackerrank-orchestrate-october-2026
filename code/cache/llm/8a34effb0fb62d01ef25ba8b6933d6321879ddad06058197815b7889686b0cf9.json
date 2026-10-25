@@ -1,0 +1,1 @@
+{"assignments": [{"case_id": "case_99", "basis": ["request_text:case_99"], "activity_id": "NONE", "reason": "The request does not provide enough information to link any of the candidate rows to the account associated with the email address.", "confidence": "low"}]}

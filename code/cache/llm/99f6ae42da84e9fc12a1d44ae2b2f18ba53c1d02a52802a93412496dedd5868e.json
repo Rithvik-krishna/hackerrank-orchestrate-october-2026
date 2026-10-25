@@ -1,0 +1,1 @@
+{"assignments": [{"basis": ["request_text:case_150"], "reason": "The request asks for account erasure, but there is no information linking the candidate rows (account_3897, account_1084) to the user or the account associated with case_150.", "activity_id": "NONE", "confidence": "low", "case_id": "case_150"}]}

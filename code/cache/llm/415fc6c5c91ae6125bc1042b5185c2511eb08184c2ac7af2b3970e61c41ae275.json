@@ -1,0 +1,1 @@
+{"assignments": [{"reason": "The request mentions analytics and search, but the candidate rows are for account resources, not linked to the user or the specific services mentioned in the request.", "basis": ["request_text:case_29"], "activity_id": "NONE", "confidence": "low", "case_id": "case_29"}]}

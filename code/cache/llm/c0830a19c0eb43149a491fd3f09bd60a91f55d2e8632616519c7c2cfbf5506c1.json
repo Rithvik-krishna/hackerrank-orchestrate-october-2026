@@ -1,0 +1,1 @@
+{"assignments": [{"confidence": "low", "case_id": "case_100", "basis": ["request_text:case_100"], "reason": "The request text does not provide any specific account identifiers (e.g., account_7927, account_1034, or account_9511) to link the candidate rows to the case.", "activity_id": "NONE"}]}

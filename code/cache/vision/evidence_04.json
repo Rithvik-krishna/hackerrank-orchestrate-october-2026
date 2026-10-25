@@ -1,0 +1,24 @@
+{
+  "file_id": "evidence_04",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Customer Operations > Customers: Haruka Sato, user_11 . account_5762",
+  "rows": [
+    {
+      "system_id": "account_service",
+      "resource_id": "account_5762",
+      "category": "USER_PROFILE",
+      "status": "PRESENT",
+      "identifiers": [
+        "user_11",
+        "haruka.s1838@zoho.com",
+        "+81 90 7610 2507"
+      ],
+      "pii_fields": {
+        "name": "Haruka Sato"
+      }
+    }
+  ],
+  "ignored": [
+    "support_9538 / CS-8538 appears only as a ticket reference in the side panel"
+  ]
+}

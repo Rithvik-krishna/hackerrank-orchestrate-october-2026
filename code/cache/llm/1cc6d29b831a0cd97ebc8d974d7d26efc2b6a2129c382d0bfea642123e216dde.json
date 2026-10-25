@@ -1,0 +1,1 @@
+{"assignments": [{"reason": "The request text mentions checking connected records, but none of the candidate rows are linked to the account or audit records provided in the case metadata.", "case_id": "case_430", "activity_id": "NONE", "confidence": "low", "basis": ["request_text:case_430"]}]}

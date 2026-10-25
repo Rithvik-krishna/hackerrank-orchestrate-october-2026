@@ -1,0 +1,1 @@
+{"assignments": [{"case_id": "case_491", "confidence": "low", "activity_id": "NONE", "reason": "The request text is a general deletion request and does not mention any of the search resource IDs provided in the candidate rows. There is no evidence linking the candidate rows to the user or the account linked to the case.", "basis": ["request_text:case_491"]}]}

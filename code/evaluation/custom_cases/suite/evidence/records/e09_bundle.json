@@ -1,0 +1,45 @@
+{
+ "exported_at": "2026-03-08T10:00:00Z",
+ "source": "records_assurance_service",
+ "snapshots": [
+  {
+   "captured_at": "2026-03-08T10:00:00Z",
+   "data_store": "identity_service",
+   "collection": "deleted_customer_references",
+   "records": [
+    {
+     "resource_id": "tombstone_9008",
+     "subject_reference": "user_8",
+     "name": "Gus Holm",
+     "email": "gus.holm@example.com",
+     "phone": "+1 555 0108",
+     "email_hash": "d4107656bd3f7b9fdb65740abfc8268985744a6e9bd4ba3798841ab51dbf6087",
+     "account_status": "DELETED"
+    },
+    {
+     "resource_id": "tombstone_9009",
+     "subject_reference": "user_9",
+     "name": null,
+     "email": null,
+     "phone": null,
+     "email_hash": null,
+     "account_status": "DELETED"
+    }
+   ]
+  },
+  {
+   "captured_at": "2026-03-08T10:00:00Z",
+   "data_store": "security_service",
+   "collection": "security_audit_events",
+   "records": [
+    {
+     "resource_id": "audit_record_9009",
+     "subject_reference": "user_9",
+     "event_name": "account_deletion_reviewed",
+     "actor_type": "automated_privacy_workflow",
+     "integrity_seal": "sha256:0000000000000000000000000000000000000000000000000000000000000001"
+    }
+   ]
+  }
+ ]
+}

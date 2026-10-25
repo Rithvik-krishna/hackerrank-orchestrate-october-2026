@@ -1,0 +1,1 @@
+{"assignments": [{"case_id": "case_109", "confidence": "low", "activity_id": "NONE", "reason": "The request text does not specify which account (resource_id) to delete, and there is no evidence linking the candidate rows to the user or the case.", "basis": ["request_text:case_109"]}]}

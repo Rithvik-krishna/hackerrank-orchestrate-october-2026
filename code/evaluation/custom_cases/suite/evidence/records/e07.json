@@ -1,0 +1,15 @@
+{
+ "exported_at": "2026-03-05T09:00:00Z",
+ "origin": "account_export",
+ "record_count": 1,
+ "records": [
+  {
+   "recorded_at": "2026-03-05T08:00:00Z",
+   "system": "account_service",
+   "resource_id": "account_9007",
+   "record_type": "USER_PROFILE",
+   "result": "NOT_FOUND",
+   "subject_reference": "fay.nord@example.com"
+  }
+ ]
+}

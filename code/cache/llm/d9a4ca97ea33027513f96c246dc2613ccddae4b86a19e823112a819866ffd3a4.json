@@ -1,0 +1,1 @@
+{"assignments": [{"case_id": "case_98", "reason": "The request does not provide enough information to link any of the candidate rows to case_98. None of the candidate rows have known owners or resource IDs that match the information provided in the case.", "activity_id": "NONE", "confidence": "low", "basis": ["request_text:case_98"]}]}

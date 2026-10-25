@@ -1,0 +1,150 @@
+{
+ "nodes": [
+  {
+   "id": "request:custom_02",
+   "type": "request",
+   "email": "bo.lin@example.com",
+   "audit_at": "2026-03-10T12:00:00Z",
+   "requested_at": "2026-03-01T09:00:00Z",
+   "text": "Please delete my account and the personal data attached to it."
+  },
+  {
+   "id": "subject:user_2",
+   "type": "subject"
+  },
+  {
+   "id": "identifier:user_2",
+   "type": "identifier",
+   "kind": "user"
+  },
+  {
+   "id": "identifier:bo.lin@example.com",
+   "type": "identifier",
+   "kind": "email"
+  },
+  {
+   "id": "identifier:+15550102",
+   "type": "identifier",
+   "kind": "phone"
+  },
+  {
+   "id": "identifier:ea8ff6a48f6cf859b63ad6ea2204d52b17845939bb11c9fd2b133d87febe8daa",
+   "type": "identifier",
+   "kind": "email_hash"
+  },
+  {
+   "id": "resource:account_9002",
+   "type": "resource",
+   "system": "account_service",
+   "category": "USER_PROFILE"
+  },
+  {
+   "id": "rule:rule_01",
+   "type": "rule",
+   "action": "DELETE",
+   "condition": "Always"
+  },
+  {
+   "id": "evidence:evidence_02",
+   "type": "evidence",
+   "captured_at": "2026-03-05T10:00:00+00:00",
+   "citable": true,
+   "degraded": true
+  },
+  {
+   "id": "observation:evidence_02/account_9002@2026-03-05T09:50:00+00:00",
+   "type": "observation",
+   "status": "UNKNOWN",
+   "source": "log",
+   "table": null
+  },
+  {
+   "id": "diagnostic:evidence_02#0",
+   "type": "diagnostic",
+   "parser": "log",
+   "location": "line 2",
+   "category": "malformed_line",
+   "message": "JSONDecodeError: Expecting value: line 1 column 53 (char 52)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "subject:user_2",
+   "rel": "has_identifier",
+   "to": "identifier:user_2",
+   "valid_from": null,
+   "source": "user_identities.csv"
+  },
+  {
+   "from": "subject:user_2",
+   "rel": "has_identifier",
+   "to": "identifier:bo.lin@example.com",
+   "valid_from": null,
+   "source": "user_identities.csv"
+  },
+  {
+   "from": "request:custom_02",
+   "rel": "resolves_to",
+   "to": "subject:user_2",
+   "via": "identifier:bo.lin@example.com",
+   "basis": "exact match, case-insensitive",
+   "valid_from": null,
+   "source": "user_identities.csv"
+  },
+  {
+   "from": "subject:user_2",
+   "rel": "has_identifier",
+   "to": "identifier:+15550102",
+   "valid_from": null,
+   "source": "user_identities.csv"
+  },
+  {
+   "from": "subject:user_2",
+   "rel": "has_identifier",
+   "to": "identifier:ea8ff6a48f6cf859b63ad6ea2204d52b17845939bb11c9fd2b133d87febe8daa",
+   "valid_from": null,
+   "source": "user_identities.csv"
+  },
+  {
+   "from": "resource:account_9002",
+   "rel": "governed_by",
+   "to": "rule:rule_01"
+  },
+  {
+   "from": "subject:user_2",
+   "rel": "links_via",
+   "to": "resource:account_9002",
+   "basis": "identifier:evidence_02"
+  },
+  {
+   "from": "observation:evidence_02/account_9002@2026-03-05T09:50:00+00:00",
+   "rel": "observes",
+   "to": "resource:account_9002"
+  },
+  {
+   "from": "observation:evidence_02/account_9002@2026-03-05T09:50:00+00:00",
+   "rel": "recorded_in",
+   "to": "evidence:evidence_02"
+  },
+  {
+   "from": "identifier:bo.lin@example.com",
+   "rel": "matched_in",
+   "to": "observation:evidence_02/account_9002@2026-03-05T09:50:00+00:00"
+  },
+  {
+   "from": "evidence:evidence_02",
+   "rel": "degraded_by",
+   "to": "diagnostic:evidence_02#0"
+  }
+ ],
+ "conflicts": [],
+ "excluded": [
+  {
+   "resource": "account_9002",
+   "evidence": "evidence_03",
+   "observed_at": "2026-03-15T08:00:00+00:00",
+   "status": "PRESENT",
+   "reason": "recorded after audit_at"
+  }
+ ]
+}

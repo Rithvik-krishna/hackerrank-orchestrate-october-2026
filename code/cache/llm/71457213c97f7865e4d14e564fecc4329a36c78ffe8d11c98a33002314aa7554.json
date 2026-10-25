@@ -1,0 +1,1 @@
+{"assignments": [{"case_id": "case_96", "basis": ["request_text:case_96"], "confidence": "low", "reason": "The request asks to close an account, but the candidate rows do not provide enough information to link them to the specific account associated with case_96.", "activity_id": "NONE"}]}

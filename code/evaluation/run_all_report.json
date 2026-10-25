@@ -1,0 +1,270 @@
+{
+ "passed": true,
+ "note": "",
+ "steps": [
+  {
+   "name": "lint",
+   "required": true,
+   "ok": true,
+   "detail": "unused imports: 0 | functions over 60 lines: 0 | audit/ functions with any type annotation: 170/170",
+   "seconds": 0.4,
+   "commands": [
+    {
+     "command": "python -I code\\evaluation\\lint_check.py",
+     "exit_code": 0
+    }
+   ],
+   "metrics": {}
+  },
+  {
+   "name": "types",
+   "required": true,
+   "ok": true,
+   "detail": "Success: no issues found in 52 source files (mypy 2.4.0 (compiled: yes))",
+   "seconds": 1.7,
+   "commands": [
+    {
+     "command": "python -I -m mypy --version",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I -m mypy --config-file code\\mypy.ini",
+     "exit_code": 0
+    }
+   ],
+   "metrics": {
+    "mypy_exit_code": 0
+   }
+  },
+  {
+   "name": "tests",
+   "required": true,
+   "ok": true,
+   "detail": "test_llm_layer 54, test_verifier 22, test_provenance 9, test_regression 19, test_parsers 39",
+   "seconds": 41.3,
+   "commands": [
+    {
+     "command": "python -I code\\evaluation\\test_llm_layer.py",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\evaluation\\test_verifier.py",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\evaluation\\test_provenance.py",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\evaluation\\test_regression.py",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\evaluation\\test_parsers.py",
+     "exit_code": 0
+    }
+   ],
+   "metrics": {
+    "test_llm_layer": {
+     "tests": 54,
+     "exit_code": 0
+    },
+    "test_verifier": {
+     "tests": 22,
+     "exit_code": 0
+    },
+    "test_provenance": {
+     "tests": 9,
+     "exit_code": 0
+    },
+    "test_regression": {
+     "tests": 19,
+     "exit_code": 0
+    },
+    "test_parsers": {
+     "tests": 39,
+     "exit_code": 0
+    }
+   }
+  },
+  {
+   "name": "full run",
+   "required": true,
+   "ok": true,
+   "detail": "independent verifier: 0 errors in 0 cases, 0 warnings",
+   "seconds": 1.2,
+   "commands": [
+    {
+     "command": "python -I code\\main.py --output <tmp>/output.csv",
+     "exit_code": 0
+    }
+   ],
+   "metrics": {}
+  },
+  {
+   "name": "schema",
+   "required": true,
+   "ok": true,
+   "detail": "518 requests; fresh run: valid; root output.csv: valid",
+   "seconds": 0.0,
+   "commands": [],
+   "metrics": {}
+  },
+  {
+   "name": "baseline",
+   "required": true,
+   "ok": true,
+   "detail": "matches the trusted baseline; root output.csv is identical",
+   "seconds": 0.0,
+   "commands": [],
+   "metrics": {
+    "current": {
+     "sha256": "0c75617fa52fbfa734cebeea741450d384a3fe7fada0b8eeca4202c5bf823729",
+     "rows": 518,
+     "statuses": {
+      "COMPLETE": 153,
+      "INCOMPLETE": 355,
+      "NOT_APPLICABLE": 10
+     }
+    },
+    "trusted": {
+     "sha256": "0c75617fa52fbfa734cebeea741450d384a3fe7fada0b8eeca4202c5bf823729",
+     "rows": 518,
+     "statuses": {
+      "COMPLETE": 153,
+      "INCOMPLETE": 355,
+      "NOT_APPLICABLE": 10
+     }
+    },
+    "root_output_matches": true,
+    "update_requested": false
+   }
+  },
+  {
+   "name": "samples",
+   "required": true,
+   "ok": true,
+   "detail": "regression check: 27 baseline cases, 0 lost, 0 gained; status 1.0, row exact 0.844, step F1 0.982",
+   "seconds": 1.2,
+   "commands": [
+    {
+     "command": "python -I code\\main.py --samples",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\evaluation\\evaluate.py code\\evaluation\\sample_predictions.csv",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\evaluation\\evaluate.py --check-regression",
+     "exit_code": 0
+    }
+   ],
+   "metrics": {
+    "cases": 32.0,
+    "status_accuracy": 1.0,
+    "row_exact_match": 0.844,
+    "sequence_accuracy": 0.844,
+    "step_precision": 0.989,
+    "step_recall": 0.974,
+    "step_f1": 0.982,
+    "field_accuracy": 0.967,
+    "evidence_accuracy": 1.0,
+    "false_complete": 0.0,
+    "false_incomplete": 0.0,
+    "na_precision": null,
+    "na_recall": null,
+    "order_compliance": 1.0
+   }
+  },
+  {
+   "name": "custom suite",
+   "required": true,
+   "ok": true,
+   "detail": "23 cases, row exact 1.0",
+   "seconds": 0.5,
+   "commands": [
+    {
+     "command": "python -I code\\evaluation\\custom_cases\\build_suite.py",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\main.py --dataset code\\evaluation\\custom_cases\\suite --output <tmp>/custom.csv",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\evaluation\\evaluate.py <tmp>/custom.csv --gold code\\evaluation\\custom_cases\\suite\\expected_output.csv",
+     "exit_code": 0
+    }
+   ],
+   "metrics": {
+    "cases": 23.0,
+    "status_accuracy": 1.0,
+    "row_exact_match": 1.0,
+    "sequence_accuracy": 1.0,
+    "step_precision": 1.0,
+    "step_recall": 1.0,
+    "step_f1": 1.0,
+    "field_accuracy": 1.0,
+    "evidence_accuracy": 1.0,
+    "false_complete": 0.0,
+    "false_incomplete": 0.0,
+    "na_precision": 1.0,
+    "na_recall": 1.0,
+    "order_compliance": 1.0
+   }
+  },
+  {
+   "name": "mutation",
+   "required": true,
+   "ok": true,
+   "detail": "15 rules caught, 0 missed",
+   "seconds": 12.9,
+   "commands": [
+    {
+     "command": "python -I code\\evaluation\\custom_cases\\mutation_check.py",
+     "exit_code": 0
+    }
+   ],
+   "metrics": {
+    "caught": 15
+   }
+  },
+  {
+   "name": "error analysis",
+   "required": true,
+   "ok": true,
+   "detail": "32 labelled cases; 27 identical to the gold as data, 5 differ (row exact 0.844); 193 gold steps, 190 predicted.",
+   "seconds": 0.1,
+   "commands": [
+    {
+     "command": "python -I code\\evaluation\\error_analysis.py --markdown code\\evaluation\\error_analysis.md",
+     "exit_code": 0
+    }
+   ],
+   "metrics": {}
+  },
+  {
+   "name": "reports",
+   "required": true,
+   "ok": true,
+   "detail": "evaluation, confidence and usage reports written",
+   "seconds": 6.6,
+   "commands": [
+    {
+     "command": "python -I code\\evaluation\\make_report.py --reuse code\\evaluation\\run_all_reuse.json",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\evaluation\\make_confidence_report.py",
+     "exit_code": 0
+    },
+    {
+     "command": "python -I code\\evaluation\\make_usage_report.py",
+     "exit_code": 0
+    }
+   ],
+   "metrics": {}
+  }
+ ]
+}

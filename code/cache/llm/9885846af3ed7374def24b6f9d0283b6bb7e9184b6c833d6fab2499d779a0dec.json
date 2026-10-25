@@ -1,0 +1,1 @@
+{"assignments": [{"case_id": "case_82", "basis": ["request_text:case_82"], "confidence": "high", "reason": "The request text does not mention any of the resources associated with the candidate rows (analytics_2176, analytics_9246), and there are no other links connecting these rows to the case.", "activity_id": "NONE"}]}

@@ -1,0 +1,20 @@
+{
+  "file_id": "evidence_19",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Pulse Analytics > Users: Omar Darwish, user_20 . analytics_7438",
+  "rows": [
+    {
+      "system_id": "analytics_platform",
+      "resource_id": "analytics_7438",
+      "category": "ANALYTICS_PROFILE",
+      "status": "PRESENT",
+      "identifiers": [
+        "user_20",
+        "darwish.omar@icloud.com"
+      ],
+      "pii_fields": {
+        "name": "Omar Darwish"
+      }
+    }
+  ]
+}

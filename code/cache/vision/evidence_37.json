@@ -1,0 +1,20 @@
+{
+  "file_id": "evidence_37",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Sentinel > Account events, subject filter user_03, 18-26 Aug 2026, 6 signed events",
+  "rows": [
+    {
+      "system_id": "security_service",
+      "resource_id": "audit_record_003",
+      "category": "SECURITY_AUDIT_LOG",
+      "status": "PRESENT",
+      "identifiers": [
+        "user_03"
+      ],
+      "notes": "account_closure_recorded, 25 Aug 2026 04:03 UTC, actor automated account workflow, integrity Valid"
+    }
+  ],
+  "ignored": [
+    "audit_record_001, 002, 004, 005, 006 are routine events (login, session, password, email change) shown in the list"
+  ]
+}

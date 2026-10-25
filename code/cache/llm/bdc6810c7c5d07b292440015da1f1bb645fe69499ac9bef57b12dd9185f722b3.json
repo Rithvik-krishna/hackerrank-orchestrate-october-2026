@@ -1,0 +1,1 @@
+{"assignments": [{"reason": "The request text does not specify which account (account_617 or account_483) belongs to the user, and there is no evidence linking either account to the user or the provided linked services.", "basis": ["request_text:case_48"], "confidence": "low", "activity_id": "NONE", "case_id": "case_48"}]}

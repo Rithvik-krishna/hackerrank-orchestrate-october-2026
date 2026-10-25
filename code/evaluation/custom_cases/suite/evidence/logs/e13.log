@@ -1,0 +1,6 @@
+2026-03-08T09:10:00Z level=DEBUG service=account_service trace_id=t13 event=profile_lookup_started resource_id=account_9015 lookup_key=kim.lee@example.com
+2026-03-08T09:10:01Z level=INFO service=account_service trace_id=t13 event=profile_lookup_completed resource_id=account_9015 rows=0 http_status=404
+2026-03-08T09:20:00Z level=DEBUG service=integration_service trace_id=t14 event=connector_config_read_started resource_id=data_flow_9015 lookup_key=kim.lee@example.com
+2026-03-08T09:20:01Z level=INFO service=integration_service trace_id=t14 event=connector_config_read_completed resource_id=data_flow_9015 enabled=true last_delivery_status=delivered connector_name=search_profile_indexer customer_email=kim.lee@example.com
+2026-03-08T09:30:00Z level=DEBUG service=backup_service trace_id=t15 event=restore_policy_read_started resource_id=backup_9015 lookup_key=kim.lee@example.com
+2026-03-08T09:30:01Z level=INFO service=backup_service trace_id=t15 event=restore_policy_read_completed resource_id=backup_9015 archive_present=true restore_allowed=true archive_key=archive/customer-data/backup_9015.tar.zst customer_email=kim.lee@example.com

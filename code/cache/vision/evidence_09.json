@@ -1,0 +1,30 @@
+{
+  "file_id": "evidence_09",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Search Console, query email:g.silva76@gmail.com, customer_directory_v3, 2 hits",
+  "rows": [
+    {
+      "system_id": "search_service",
+      "resource_id": "search_428",
+      "category": "SEARCH_INDEX_ENTRY",
+      "status": "PRESENT",
+      "identifiers": [
+        "g.silva76@gmail.com",
+        "user_13"
+      ],
+      "pii_fields": {
+        "display_name": "Gabriel Silva"
+      }
+    },
+    {
+      "system_id": "search_service",
+      "resource_id": "search_1874",
+      "category": "SEARCH_INDEX_ENTRY",
+      "status": "PRESENT",
+      "identifiers": [
+        "g.silva76.jr@gmail.com"
+      ],
+      "notes": "look-alike address of another person; no customer reference"
+    }
+  ]
+}

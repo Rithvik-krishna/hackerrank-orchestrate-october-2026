@@ -1,0 +1,1 @@
+{"assignments": [{"confidence": "low", "reason": "The request asks for deletion of the account associated with the email, but none of the candidate rows have known owners or other identifiers linking them to the user or the account.", "basis": ["request_text:case_396"], "activity_id": "NONE", "case_id": "case_396"}]}

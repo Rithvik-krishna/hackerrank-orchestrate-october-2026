@@ -1,0 +1,6 @@
+2026-03-08T09:10:00Z level=DEBUG service=account_service trace_id=t16 event=profile_lookup_started resource_id=account_9016 lookup_key=lou.ahn@example.com
+2026-03-08T09:10:01Z level=INFO service=account_service trace_id=t16 event=profile_lookup_completed resource_id=account_9016 rows=0 http_status=404
+2026-03-08T09:20:00Z level=DEBUG service=search_service trace_id=t17 event=index_query_started resource_id=search_9016 lookup_key=lou.ahn@example.com
+2026-03-08T09:20:01Z level=INFO service=search_service trace_id=t17 event=index_query_completed resource_id=search_9016 result=hit total_hits=1 email=lou.ahn@example.com
+2026-03-08T09:30:00Z level=DEBUG service=security_service trace_id=t18 event=audit_record_query_started subject_ref=user_14
+2026-03-08T09:30:01Z level=INFO service=security_service trace_id=t18 event=audit_record_read_completed resource_id=audit_record_9016 rows=1 subject_reference=user_14 retention_until=2034-03-08T00:00:00Z

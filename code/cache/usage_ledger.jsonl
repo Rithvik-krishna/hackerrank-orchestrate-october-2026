@@ -1,0 +1,418 @@
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1153, "output_tokens": 153, "attempts": 1, "seconds": 7.92}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 996, "output_tokens": 107, "attempts": 1, "seconds": 80.91}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1110, "output_tokens": 145, "attempts": 1, "seconds": 1.92}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1153, "output_tokens": 131, "attempts": 1, "seconds": 1.63}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1098, "output_tokens": 129, "attempts": 1, "seconds": 5.42}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 945, "output_tokens": 139, "attempts": 1, "seconds": 1.71}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1155, "output_tokens": 129, "attempts": 1, "seconds": 70.36}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 993, "output_tokens": 143, "attempts": 1, "seconds": 1.87}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 992, "output_tokens": 147, "attempts": 1, "seconds": 5.19}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1070, "output_tokens": 141, "attempts": 1, "seconds": 2.65}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1069, "output_tokens": 129, "attempts": 1, "seconds": 1.72}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 910, "output_tokens": 99, "attempts": 1, "seconds": 1.74}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1005, "output_tokens": 131, "attempts": 1, "seconds": 1.61}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 842, "output_tokens": 97, "attempts": 1, "seconds": 5.45}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1037, "output_tokens": 145, "attempts": 1, "seconds": 1.84}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1109, "output_tokens": 139, "attempts": 1, "seconds": 1.77}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1069, "output_tokens": 145, "attempts": 1, "seconds": 1.87}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1110, "output_tokens": 143, "attempts": 1, "seconds": 10.19}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 823, "output_tokens": 76, "attempts": 1, "seconds": 6.16}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1110, "output_tokens": 137, "attempts": 1, "seconds": 3.0}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1795, "output_tokens": 160, "attempts": 2, "seconds": 21.86}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1108, "output_tokens": 143, "attempts": 1, "seconds": 4.35}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1822, "output_tokens": 170, "attempts": 2, "seconds": 4.6}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 846, "output_tokens": 111, "attempts": 1, "seconds": 2.23}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 922, "output_tokens": 88, "attempts": 1, "seconds": 1.65}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1967, "output_tokens": 156, "attempts": 2, "seconds": 22.56}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1802, "output_tokens": 150, "attempts": 2, "seconds": 2.97}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1798, "output_tokens": 142, "attempts": 2, "seconds": 6.07}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 898, "output_tokens": 102, "attempts": 1, "seconds": 4.41}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1079, "output_tokens": 157, "attempts": 1, "seconds": 4.0}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1883, "output_tokens": 244, "attempts": 2, "seconds": 11.1}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 928, "output_tokens": 87, "attempts": 1, "seconds": 4.77}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1784, "output_tokens": 142, "attempts": 2, "seconds": 6.58}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1076, "output_tokens": 157, "attempts": 1, "seconds": 2.9}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1036, "output_tokens": 131, "attempts": 1, "seconds": 1.34}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 898, "output_tokens": 128, "attempts": 1, "seconds": 16.79}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 899, "output_tokens": 91, "attempts": 1, "seconds": 4.66}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1221, "output_tokens": 145, "attempts": 1, "seconds": 5.57}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1027, "output_tokens": 129, "attempts": 1, "seconds": 1.39}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1077, "output_tokens": 133, "attempts": 1, "seconds": 1.57}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 851, "output_tokens": 128, "attempts": 1, "seconds": 1.78}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1114, "output_tokens": 141, "attempts": 1, "seconds": 4.67}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 997, "output_tokens": 91, "attempts": 1, "seconds": 3.41}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1030, "output_tokens": 129, "attempts": 1, "seconds": 4.09}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1349, "output_tokens": 167, "attempts": 1, "seconds": 8.56}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1067, "output_tokens": 159, "attempts": 1, "seconds": 3.46}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1239, "output_tokens": 163, "attempts": 1, "seconds": 12.89}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 918, "output_tokens": 112, "attempts": 1, "seconds": 4.5}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1072, "output_tokens": 139, "attempts": 1, "seconds": 4.44}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1027, "output_tokens": 139, "attempts": 1, "seconds": 1.78}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 898, "output_tokens": 99, "attempts": 1, "seconds": 5.89}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1812, "output_tokens": 186, "attempts": 2, "seconds": 4.52}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 2001, "output_tokens": 240, "attempts": 2, "seconds": 6.06}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 924, "output_tokens": 84, "attempts": 1, "seconds": 24.65}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1075, "output_tokens": 167, "attempts": 1, "seconds": 3.08}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1035, "output_tokens": 129, "attempts": 1, "seconds": 10.44}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 954, "output_tokens": 127, "attempts": 1, "seconds": 1.53}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1035, "output_tokens": 139, "attempts": 1, "seconds": 2.28}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1037, "output_tokens": 141, "attempts": 1, "seconds": 7.89}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 957, "output_tokens": 155, "attempts": 1, "seconds": 1.96}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1036, "output_tokens": 137, "attempts": 1, "seconds": 4.38}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 925, "output_tokens": 86, "attempts": 1, "seconds": 1.41}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 825, "output_tokens": 99, "attempts": 1, "seconds": 1.09}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1046, "output_tokens": 137, "attempts": 1, "seconds": 6.9}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 851, "output_tokens": 90, "attempts": 1, "seconds": 25.95}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1998, "output_tokens": 162, "attempts": 2, "seconds": 6.72}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 2020, "output_tokens": 202, "attempts": 2, "seconds": 26.43}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1808, "output_tokens": 170, "attempts": 2, "seconds": 5.72}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1806, "output_tokens": 170, "attempts": 2, "seconds": 6.29}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 818, "output_tokens": 99, "attempts": 1, "seconds": 19.27}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1108, "output_tokens": 151, "attempts": 1, "seconds": 2.29}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 841, "output_tokens": 93, "attempts": 1, "seconds": 1.61}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 887, "output_tokens": 115, "attempts": 1, "seconds": 95.03}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 917, "output_tokens": 86, "attempts": 1, "seconds": 3.08}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 847, "output_tokens": 101, "attempts": 1, "seconds": 2.58}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 847, "output_tokens": 82, "attempts": 1, "seconds": 12.81}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 849, "output_tokens": 99, "attempts": 1, "seconds": 1.35}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 845, "output_tokens": 83, "attempts": 1, "seconds": 1.44}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 845, "output_tokens": 110, "attempts": 1, "seconds": 9.45}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 823, "output_tokens": 84, "attempts": 1, "seconds": 1.44}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 817, "output_tokens": 74, "attempts": 1, "seconds": 51.95}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 821, "output_tokens": 83, "attempts": 1, "seconds": 2.02}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 912, "output_tokens": 99, "attempts": 1, "seconds": 6.28}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 848, "output_tokens": 94, "attempts": 1, "seconds": 1.6}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1857, "output_tokens": 164, "attempts": 2, "seconds": 7.71}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 891, "output_tokens": 89, "attempts": 1, "seconds": 1.89}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 847, "output_tokens": 87, "attempts": 1, "seconds": 1.98}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 839, "output_tokens": 92, "attempts": 1, "seconds": 31.18}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 825, "output_tokens": 84, "attempts": 1, "seconds": 52.76}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 915, "output_tokens": 105, "attempts": 1, "seconds": 1.94}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 846, "output_tokens": 74, "attempts": 1, "seconds": 1.47}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 818, "output_tokens": 88, "attempts": 1, "seconds": 7.31}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 870, "output_tokens": 90, "attempts": 1, "seconds": 5.93}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 872, "output_tokens": 84, "attempts": 1, "seconds": 9.35}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 895, "output_tokens": 81, "attempts": 1, "seconds": 1.8}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 883, "output_tokens": 74, "attempts": 1, "seconds": 1.25}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 831, "output_tokens": 84, "attempts": 1, "seconds": 2.14}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 849, "output_tokens": 84, "attempts": 1, "seconds": 5.15}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 908, "output_tokens": 96, "attempts": 1, "seconds": 6.23}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 848, "output_tokens": 93, "attempts": 1, "seconds": 1.91}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 853, "output_tokens": 115, "attempts": 1, "seconds": 4.91}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 823, "output_tokens": 103, "attempts": 1, "seconds": 1.96}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 897, "output_tokens": 84, "attempts": 1, "seconds": 2.53}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 825, "output_tokens": 89, "attempts": 1, "seconds": 1.8}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 870, "output_tokens": 84, "attempts": 1, "seconds": 15.74}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 895, "output_tokens": 91, "attempts": 1, "seconds": 1.29}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 849, "output_tokens": 84, "attempts": 1, "seconds": 59.57}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 851, "output_tokens": 85, "attempts": 1, "seconds": 4.17}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 900, "output_tokens": 85, "attempts": 1, "seconds": 10.31}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 898, "output_tokens": 110, "attempts": 1, "seconds": 17.37}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 867, "output_tokens": 84, "attempts": 1, "seconds": 4.8}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 874, "output_tokens": 84, "attempts": 1, "seconds": 1.69}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 818, "output_tokens": 98, "attempts": 1, "seconds": 8.21}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 823, "output_tokens": 84, "attempts": 1, "seconds": 54.1}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 830, "output_tokens": 78, "attempts": 1, "seconds": 2.03}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1855, "output_tokens": 168, "attempts": 2, "seconds": 14.14}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 839, "output_tokens": 84, "attempts": 1, "seconds": 2.36}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 847, "output_tokens": 93, "attempts": 1, "seconds": 9.97}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1801, "output_tokens": 168, "attempts": 2, "seconds": 3.52}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 871, "output_tokens": 84, "attempts": 2, "seconds": 185.23}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 865, "output_tokens": 103, "attempts": 1, "seconds": 1.33}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 899, "output_tokens": 84, "attempts": 1, "seconds": 3.75}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 920, "output_tokens": 93, "attempts": 1, "seconds": 6.1}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 860, "output_tokens": 86, "attempts": 1, "seconds": 2.85}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 836, "output_tokens": 86, "attempts": 2, "seconds": 127.84}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 892, "output_tokens": 84, "attempts": 1, "seconds": 5.65}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 843, "output_tokens": 87, "attempts": 1, "seconds": 1.5}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 891, "output_tokens": 94, "attempts": 1, "seconds": 4.15}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 857, "output_tokens": 127, "attempts": 1, "seconds": 11.64}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1815, "output_tokens": 172, "attempts": 2, "seconds": 6.17}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 873, "output_tokens": 84, "attempts": 1, "seconds": 1.39}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 820, "output_tokens": 84, "attempts": 1, "seconds": 2.45}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 821, "output_tokens": 85, "attempts": 1, "seconds": 1.7}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 888, "output_tokens": 119, "attempts": 1, "seconds": 1.95}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 844, "output_tokens": 86, "attempts": 1, "seconds": 2.49}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 870, "output_tokens": 74, "attempts": 1, "seconds": 4.46}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 875, "output_tokens": 84, "attempts": 1, "seconds": 1.75}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 913, "output_tokens": 99, "attempts": 1, "seconds": 7.96}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1801, "output_tokens": 168, "attempts": 2, "seconds": 7.34}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 823, "output_tokens": 84, "attempts": 1, "seconds": 3.66}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 910, "output_tokens": 84, "attempts": 1, "seconds": 1.75}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 866, "output_tokens": 134, "attempts": 1, "seconds": 2.5}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 925, "output_tokens": 102, "attempts": 1, "seconds": 1.87}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 874, "output_tokens": 84, "attempts": 1, "seconds": 2.01}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 873, "output_tokens": 103, "attempts": 1, "seconds": 7.39}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 866, "output_tokens": 96, "attempts": 1, "seconds": 2.76}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 843, "output_tokens": 84, "attempts": 1, "seconds": 1.71}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 852, "output_tokens": 85, "attempts": 1, "seconds": 3.38}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 895, "output_tokens": 84, "attempts": 1, "seconds": 2.56}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 821, "output_tokens": 89, "attempts": 1, "seconds": 4.98}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 819, "output_tokens": 84, "attempts": 1, "seconds": 9.16}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 890, "output_tokens": 84, "attempts": 1, "seconds": 4.97}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 846, "output_tokens": 90, "attempts": 1, "seconds": 2.64}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 826, "output_tokens": 88, "attempts": 1, "seconds": 5.38}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 863, "output_tokens": 97, "attempts": 1, "seconds": 2.08}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 821, "output_tokens": 85, "attempts": 1, "seconds": 2.79}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 897, "output_tokens": 84, "attempts": 2, "seconds": 3.92}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 873, "output_tokens": 92, "attempts": 1, "seconds": 7.56}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 858, "output_tokens": 85, "attempts": 1, "seconds": 2.88}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 905, "output_tokens": 97, "attempts": 1, "seconds": 1.54}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 911, "output_tokens": 102, "attempts": 1, "seconds": 5.2}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 877, "output_tokens": 85, "attempts": 1, "seconds": 3.89}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1860, "output_tokens": 202, "attempts": 2, "seconds": 24.83}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 848, "output_tokens": 84, "attempts": 1, "seconds": 1.87}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 859, "output_tokens": 101, "attempts": 1, "seconds": 2.67}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 845, "output_tokens": 83, "attempts": 2, "seconds": 123.93}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1851, "output_tokens": 168, "attempts": 2, "seconds": 3.34}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 972, "output_tokens": 77, "attempts": 1, "seconds": 1.72}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 946, "output_tokens": 110, "attempts": 1, "seconds": 1.44}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 2019, "output_tokens": 208, "attempts": 2, "seconds": 3.42}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 900, "output_tokens": 96, "attempts": 1, "seconds": 7.58}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 895, "output_tokens": 79, "attempts": 1, "seconds": 2.49}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 921, "output_tokens": 104, "attempts": 1, "seconds": 1.66}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 966, "output_tokens": 84, "attempts": 1, "seconds": 3.88}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 934, "output_tokens": 100, "attempts": 1, "seconds": 1.19}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 912, "output_tokens": 90, "attempts": 1, "seconds": 2.46}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 939, "output_tokens": 90, "attempts": 1, "seconds": 1.44}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 924, "output_tokens": 93, "attempts": 1, "seconds": 1.62}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 935, "output_tokens": 81, "attempts": 3, "seconds": 252.43}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 958, "output_tokens": 87, "attempts": 1, "seconds": 1.34}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 866, "output_tokens": 84, "attempts": 1, "seconds": 1.48}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 922, "output_tokens": 86, "attempts": 1, "seconds": 2.42}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 904, "output_tokens": 90, "attempts": 1, "seconds": 15.51}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 904, "output_tokens": 90, "attempts": 1, "seconds": 2.33}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 950, "output_tokens": 86, "attempts": 1, "seconds": 2.86}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 947, "output_tokens": 80, "attempts": 1, "seconds": 3.83}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 951, "output_tokens": 92, "attempts": 1, "seconds": 4.6}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 934, "output_tokens": 91, "attempts": 1, "seconds": 1.42}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 928, "output_tokens": 86, "attempts": 1, "seconds": 57.03}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 925, "output_tokens": 88, "attempts": 1, "seconds": 2.26}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 902, "output_tokens": 76, "attempts": 1, "seconds": 2.31}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1992, "output_tokens": 242, "attempts": 2, "seconds": 3.68}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1967, "output_tokens": 172, "attempts": 2, "seconds": 6.43}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1960, "output_tokens": 174, "attempts": 2, "seconds": 26.76}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 937, "output_tokens": 89, "attempts": 1, "seconds": 4.17}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 933, "output_tokens": 119, "attempts": 1, "seconds": 1.75}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 956, "output_tokens": 93, "attempts": 1, "seconds": 1.23}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 951, "output_tokens": 87, "attempts": 2, "seconds": 39.56}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 928, "output_tokens": 96, "attempts": 1, "seconds": 1.84}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 939, "output_tokens": 92, "attempts": 1, "seconds": 8.21}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 978, "output_tokens": 94, "attempts": 1, "seconds": 1.15}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 907, "output_tokens": 97, "attempts": 1, "seconds": 1.7}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 899, "output_tokens": 84, "attempts": 1, "seconds": 1.21}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 934, "output_tokens": 92, "attempts": 1, "seconds": 9.55}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 924, "output_tokens": 88, "attempts": 1, "seconds": 3.05}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 826, "output_tokens": 83, "attempts": 1, "seconds": 3.09}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 824, "output_tokens": 84, "attempts": 1, "seconds": 2.46}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 817, "output_tokens": 84, "attempts": 1, "seconds": 1.39}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 2014, "output_tokens": 178, "attempts": 2, "seconds": 2.79}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 927, "output_tokens": 88, "attempts": 1, "seconds": 21.92}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 2137, "output_tokens": 200, "attempts": 2, "seconds": 7.94}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 957, "output_tokens": 88, "attempts": 1, "seconds": 1.48}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1033, "output_tokens": 84, "attempts": 1, "seconds": 2.92}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1005, "output_tokens": 86, "attempts": 1, "seconds": 2.12}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1056, "output_tokens": 92, "attempts": 1, "seconds": 1.48}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1184, "output_tokens": 87, "attempts": 1, "seconds": 2.71}
+{"provider": "gemini", "purpose": "adjudicate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 2437, "output_tokens": 172, "attempts": 2, "seconds": 6.85}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8593, "output_tokens": 219, "attempts": 9, "turns": 6, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8403, "output_tokens": 203, "attempts": 10, "turns": 6, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 4669, "output_tokens": 75, "attempts": 8, "turns": 4, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1676, "output_tokens": 31, "attempts": 2, "turns": 2, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 6100, "output_tokens": 100, "attempts": 9, "turns": 5, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8403, "output_tokens": 203, "attempts": 6, "turns": 6, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8593, "output_tokens": 219, "attempts": 7, "turns": 6, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 7851, "output_tokens": 189, "attempts": 6, "turns": 6, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8867, "output_tokens": 215, "attempts": 7, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8313, "output_tokens": 220, "attempts": 8, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 9055, "output_tokens": 213, "attempts": 10, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 9051, "output_tokens": 205, "attempts": 6, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 4977, "output_tokens": 75, "attempts": 8, "turns": 4, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8416, "output_tokens": 201, "attempts": 10, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": true, "input_tokens": 0, "output_tokens": 0, "attempts": 0}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": true, "input_tokens": 0, "output_tokens": 0, "attempts": 0}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": true, "input_tokens": 0, "output_tokens": 0, "attempts": 0}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": true, "input_tokens": 0, "output_tokens": 0, "attempts": 0}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": true, "input_tokens": 0, "output_tokens": 0, "attempts": 0}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8915, "output_tokens": 195, "attempts": 9, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 9368, "output_tokens": 205, "attempts": 8, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8595, "output_tokens": 193, "attempts": 10, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 3174, "output_tokens": 52, "attempts": 3, "turns": 3, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 4953, "output_tokens": 75, "attempts": 4, "turns": 4, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 9054, "output_tokens": 213, "attempts": 14, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8936, "output_tokens": 209, "attempts": 9, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1769, "output_tokens": 31, "attempts": 5, "turns": 2, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 759, "output_tokens": 10, "attempts": 1, "turns": 1, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 759, "output_tokens": 10, "attempts": 1, "turns": 1, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 4495, "output_tokens": 77, "attempts": 7, "turns": 4, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 6268, "output_tokens": 215, "attempts": 7, "turns": 5}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 6837, "output_tokens": 100, "attempts": 7, "turns": 5, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 6454, "output_tokens": 194, "attempts": 8, "turns": 5}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 6061, "output_tokens": 179, "attempts": 10, "turns": 5}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 4769, "output_tokens": 78, "attempts": 4, "turns": 4, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 8815, "output_tokens": 219, "attempts": 13, "turns": 6}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 4552, "output_tokens": 78, "attempts": 7, "turns": 4, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 3065, "output_tokens": 55, "attempts": 3, "turns": 3, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 1820, "output_tokens": 32, "attempts": 6, "turns": 2, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 4577, "output_tokens": 78, "attempts": 6, "turns": 4, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}
+{"provider": "gemini", "purpose": "investigate", "model": "gemini-3.1-flash-lite", "cached": false, "input_tokens": 0, "output_tokens": 0, "attempts": 0, "turns": 0, "failed": true}

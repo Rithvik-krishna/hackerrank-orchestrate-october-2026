@@ -1,0 +1,1 @@
+{"assignments": [{"basis": ["request_text:case_362"], "case_id": "case_362", "reason": "The request text does not provide specific identifiers to link the candidate rows to the case. The linked audit_record_8638 is not present in the candidate rows.", "activity_id": "NONE", "confidence": "low"}]}

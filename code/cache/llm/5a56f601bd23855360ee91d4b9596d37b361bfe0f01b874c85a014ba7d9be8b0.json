@@ -1,0 +1,1 @@
+{"assignments": [{"reason": "The request asks for account deletion, but the candidate rows do not have known owners or links to the provided account identifiers in the case.", "case_id": "case_186", "confidence": "low", "basis": ["request_text:case_186"], "activity_id": "NONE"}]}

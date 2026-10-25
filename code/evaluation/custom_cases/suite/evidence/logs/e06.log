@@ -1,0 +1,3 @@
+2026-03-07T09:20:00Z level=DEBUG service=account_service trace_id=t6 event=profile_lookup_started resource_id=account_9006 lookup_key=eli.v@example.com
+2026-03-07T09:20:01Z level=INFO service=account_service trace_id=t6 event=profile_lookup_completed resource_id=account_9006 rows=0 http_status=404
+2026-03-07T09:30:00Z level=INFO service=marketing_platform trace_id=t7 resource_id=marketing_9006 event=contact_lookup_completed rows=1 email_opt_in=true correlation_key=cebcad7585d884f47f2087dc0e2a19ea42fe2ee4e1281d8f8402083687394ebd

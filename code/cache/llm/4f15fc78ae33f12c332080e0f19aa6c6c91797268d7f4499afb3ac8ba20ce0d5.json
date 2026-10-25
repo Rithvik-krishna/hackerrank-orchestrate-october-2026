@@ -1,0 +1,1 @@
+{"assignments": [{"activity_id": "NONE", "reason": "The request text does not provide specific identifiers (like account IDs) to link any of the candidate rows to the case. None of the candidate rows have known owners or other links to the case.", "confidence": "low", "case_id": "case_362", "basis": ["request_text:case_362"]}]}

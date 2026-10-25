@@ -1,0 +1,20 @@
+{
+  "file_id": "evidence_32",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Vault Recovery Manager > Archives, backup_9287 selected, account areed1433@gmail.com",
+  "rows": [
+    {
+      "system_id": "backup_service",
+      "resource_id": "backup_9287",
+      "category": "BACKUP_ARCHIVE",
+      "status": "RESTORABLE",
+      "identifiers": [
+        "areed1433@gmail.com"
+      ],
+      "notes": "archive present, eu-west-1, retention end 26 Jul 2026; the console shows no restore block, and the activity stream shows a restore job from this archive. Restorability is inferred, not displayed."
+    }
+  ],
+  "ignored": [
+    "backup_9291, backup_9288, backup_9286 belong to company.com / outlook.com accounts of other parties"
+  ]
+}

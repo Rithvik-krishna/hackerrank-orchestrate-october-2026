@@ -1,0 +1,5 @@
+audit_id,user_id,event_time,field_name,old_value,new_value
+audit_1,user_1,2026-02-01T10:00:00Z,email,ana.old@example.com,ana.new@example.com
+audit_2,user_1,2026-02-01T10:00:00Z,email_hash,695c373f287b4b6a6c8198ce986248a0f53e9a1db03755367c1d286d6182d0af,de77a47a9aa0dcc1fe006b03a7176db74fcae7f7344fd9435fb0b4bde10d746d
+audit_3,user_6,2026-01-05T10:00:00Z,email,eli.old@example.com,eli.v@example.com
+audit_4,user_6,2026-01-05T10:00:00Z,email_hash,cebcad7585d884f47f2087dc0e2a19ea42fe2ee4e1281d8f8402083687394ebd,dec23236e2057cc4bcd4e4cccb7e7a4e16cef2cde59fa7c48b592fc46349ab57

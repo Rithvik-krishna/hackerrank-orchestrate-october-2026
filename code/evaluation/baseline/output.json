@@ -1,0 +1,9 @@
+{
+ "sha256": "0c75617fa52fbfa734cebeea741450d384a3fe7fada0b8eeca4202c5bf823729",
+ "rows": 518,
+ "statuses": {
+  "COMPLETE": 153,
+  "INCOMPLETE": 355,
+  "NOT_APPLICABLE": 10
+ }
+}

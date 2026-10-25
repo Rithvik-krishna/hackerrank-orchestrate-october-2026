@@ -1,0 +1,21 @@
+{
+  "file_id": "evidence_28",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Helpline Console: CS-5034 Where is my delivery?, support_1034, customer Kofi Agyeman",
+  "rows": [
+    {
+      "system_id": "support_platform",
+      "resource_id": "support_1034",
+      "category": "SUPPORT_MESSAGE",
+      "status": "PRESENT",
+      "identifiers": [
+        "kagyeman8947@fastmail.com"
+      ],
+      "pii_fields": {
+        "name": "Kofi Agyeman",
+        "customer": "Kofi Agyeman"
+      },
+      "notes": "conversation also carries order ORD-20265034, agent Maya Chen and carrier context"
+    }
+  ]
+}

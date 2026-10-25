@@ -1,0 +1,1 @@
+{"assignments": [{"activity_id": "NONE", "confidence": "low", "reason": "The request text does not specify a resource ID, and the candidate rows do not have known owners or other links to the case.", "case_id": "case_450", "basis": ["request_text:case_450"]}]}

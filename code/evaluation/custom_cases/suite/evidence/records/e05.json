@@ -1,0 +1,47 @@
+{
+ "exported_at": "2026-03-06T11:00:00Z",
+ "origin": "support_export",
+ "record_count": 6,
+ "records": [
+  {
+   "recorded_at": "2026-03-06T10:00:00Z",
+   "system": "account_service",
+   "resource_id": "account_9004",
+   "record_type": "USER_PROFILE",
+   "result": "NOT_FOUND",
+   "subject_reference": "cleo.d@example.com"
+  },
+  {
+   "recorded_at": "2026-03-06T10:00:00Z",
+   "system": "support_platform",
+   "resource_id": "support_9040",
+   "record_type": "SUPPORT_ATTACHMENT",
+   "result": "FOUND",
+   "subject_reference": "cleo.d@example.com"
+  },
+  {
+   "recorded_at": "2026-03-06T10:00:00Z",
+   "system": "support_platform",
+   "resource_id": "support_9040",
+   "record_type": "SUPPORT_ATTACHMENT",
+   "result": "FOUND",
+   "subject_reference": "dev.rao@example.com"
+  },
+  {
+   "recorded_at": "2026-03-06T10:00:00Z",
+   "system": "account_service",
+   "resource_id": "account_9005",
+   "record_type": "USER_PROFILE",
+   "result": "NOT_FOUND",
+   "subject_reference": "dev.rao@example.com"
+  },
+  {
+   "recorded_at": "2026-03-06T10:00:00Z",
+   "system": "support_platform",
+   "resource_id": "support_9050",
+   "record_type": "SUPPORT_ATTACHMENT",
+   "result": "FOUND",
+   "subject_reference": "dev.rao@example.com"
+  }
+ ]
+}

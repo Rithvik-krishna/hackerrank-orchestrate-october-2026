@@ -1,0 +1,1 @@
+{"assignments": [{"case_id": "case_229", "activity_id": "NONE", "reason": "The request asks to erase the account linked to the email, but none of the candidate rows are linked to the user or the account via the provided evidence or catalog links.", "confidence": "low", "basis": ["request_text:case_229"]}]}

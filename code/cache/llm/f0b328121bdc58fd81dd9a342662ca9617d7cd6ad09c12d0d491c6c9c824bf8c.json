@@ -1,0 +1,1 @@
+{"assignments": [{"reason": "The request text does not provide specific identifiers to link the candidate rows to the case. The linked audit record is for a different service.", "confidence": "low", "basis": ["request_text:case_502"], "case_id": "case_502", "activity_id": "NONE"}]}

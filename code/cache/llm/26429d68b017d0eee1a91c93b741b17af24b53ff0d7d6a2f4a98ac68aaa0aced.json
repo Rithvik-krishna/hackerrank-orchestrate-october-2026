@@ -1,0 +1,1 @@
+{"assignments": [{"case_id": "case_167", "reason": "The request text does not provide any information to link the candidate rows (search_1446, search_9831) to the case. The linked records in the case are for account_service and security_service, not search_service.", "confidence": "high", "activity_id": "NONE", "basis": ["request_text:case_167"]}]}

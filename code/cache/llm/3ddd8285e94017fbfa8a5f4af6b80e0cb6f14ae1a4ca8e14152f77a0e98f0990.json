@@ -1,0 +1,1 @@
+{"assignments": [{"reason": "The request does not specify which account to delete, and the linked backup_5192 does not match the resource_ids of the candidate rows.", "case_id": "case_447", "confidence": "low", "basis": ["request_text:case_447"], "activity_id": "NONE"}]}

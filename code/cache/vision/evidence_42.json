@@ -1,0 +1,17 @@
+{
+  "file_id": "evidence_42",
+  "extracted_by": "claude-sonnet-5-5 (Claude Code session, screenshot read directly; no API call)",
+  "page": "Customer Reference Registry > Customer references: user_17, Retained reference",
+  "rows": [
+    {
+      "system_id": "identity_service",
+      "resource_id": "tombstone_17",
+      "category": "ACCOUNT_TOMBSTONE",
+      "status": "PRESENT",
+      "identifiers": [
+        "user_17"
+      ],
+      "notes": "customer key only; linked orders/support/finance references; no name, email, phone or hash shown"
+    }
+  ]
+}
